@@ -6,7 +6,7 @@ Desafio-Conceitos-Nodejs / GoStack 11
 
 🚀 Sobre o desafio
  
-Este desafio tem a intenção de criar uma aplicação para treinar o que eu aprendeu até agora no Node.js!
+Este desafio tem a intenção de criar uma aplicação para treinar o que eu aprendi até agora no Node.js!
 
 Essa será uma aplicação para armazenar repositórios do meu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
