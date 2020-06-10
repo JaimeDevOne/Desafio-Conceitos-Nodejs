@@ -44,4 +44,4 @@ Essa será uma aplicação para armazenar repositórios do meu portfólio, que i
 
 
 <H2>📝Licença</H2>
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença MIT.
